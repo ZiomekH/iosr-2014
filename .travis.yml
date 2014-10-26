@@ -9,3 +9,4 @@ deploy:
   app: iosr-2014
   on:
     repo: ZiomekH/iosr-2014
+  strategy: git
